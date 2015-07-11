@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+  },
+  "name": "ui-bootstrap-dropdown",
+  "keywords": [
+    "angular",
+    "angular-ui",
+    "bootstrap",
+    "dropdown",
+    "bootstrap dropdown"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "description": "Native AngularJS (Angular) directive for Bootstrap Dropdown.",
+  "version": "0.13.0",
+  "main": ["./ui-bootstrap-dropdown-tpls.js"],
+  "dependencies": {
+    "angular": ">=1.3.0"
+  }
+}
